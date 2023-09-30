@@ -1,6 +1,7 @@
 ![alt text](https://github.com/rizalfahlevi8/rizalfahlevi8/blob/main/Full%20Stack%20Developer.png?raw=true)
 <h1 align="center">Hi 👋, I'm Muhammad Rizal Fahlevi</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
+<img align="right" alt="Hello" width="200" margin="10px" src="https://github.com/rizalfahlevi8/rizalfahlevi8/blob/main/Hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalfahlevi8&label=Profile%20views&color=0e75b6&style=flat" alt="rizalfahlevi8" /> </p>
 
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **rizalfahlevi810@gmail.com**
 
-- ⚡ Fun fact **One of my dreams is to develop applications or technology that can help improve education.**
+- ⚡ Fun fact **My favorite programming language is PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
