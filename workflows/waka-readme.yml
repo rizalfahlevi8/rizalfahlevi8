@@ -1,0 +1,28 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "5 * * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          API_BASE_URL: https://wakatime.com/api
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: rizalfahlevi8/rizalfahlevi8
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: ▱▰
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: false # optional
+          IGNORED_LANGUAGES: Yaml Json Toml Other Image Prisma Figma Design Canva Design Csv  # optionalllll
