@@ -28,6 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalfahlevi8&" alt="rizalfahlevi8" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
