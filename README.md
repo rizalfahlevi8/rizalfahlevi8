@@ -29,5 +29,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizalfahlevi8&" alt="rizalfahlevi8" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP   1 hr 19 mins    █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
