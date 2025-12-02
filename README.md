@@ -31,18 +31,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2025 - To: 29 November 2025
+From: 18 March 2025 - To: 30 November 2025
 
-Total Time: 376 hrs 39 mins
+Total Time: 377 hrs 8 mins
 
-TypeScript          173 hrs 3 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   45.61 %
-Dart                64 hrs 14 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.93 %
-JavaScript          61 hrs 55 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.32 %
-PHP                 14 hrs 12 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.75 %
+TypeScript          173 hrs 3 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   45.55 %
+Dart                64 hrs 14 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.91 %
+JavaScript          62 hrs 12 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.37 %
+PHP                 14 hrs 12 mins  ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.74 %
 CSS                 12 hrs 8 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.20 %
 JSON                8 hrs 26 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.22 %
-Bash                7 hrs 22 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.94 %
-Blade Template      7 hrs 8 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.88 %
+Bash                7 hrs 30 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.98 %
+Blade Template      7 hrs 12 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.90 %
 Python              3 hrs 44 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.99 %
 ```
 
