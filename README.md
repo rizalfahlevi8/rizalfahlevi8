@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalfahlevi8&label=Profile%20views&color=0e75b6&style=flat" alt="rizalfahlevi8" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Java, PHP**
+- 💬 Ask me about **Java, PHP, React, and Python**
 
 - 📫 How to reach me **rizalfahlevi810@gmail.com**
 
-- ⚡ Fun fact **My favorite programming language is PHP**
+- ⚡ Fun fact **My favorite programming language is PHP and Typescript**
 
 <h3 align="left">Connect with me:</h3>
 
