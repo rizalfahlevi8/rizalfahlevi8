@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rizal-fahlevi-9500452b2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizalfahlevi8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rizal_fahlevi8) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizalfahlevi8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizalfahlevi8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rizal_fahlevi8) 
 
 
 <h3 align="left">Languages and Tools:</h3>
